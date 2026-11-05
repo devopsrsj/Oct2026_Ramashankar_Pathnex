@@ -1,0 +1,18 @@
+## RSJ Details of timings file
+----------------------------------------
+----------------------------------------
+# What I did today - Learnt git and setup done git in EC2 instance
+
+# an hour - Revised Linux Session 1
+# 30 min coding practice
+# 1 hours -EC2 instance created and SSH access via putty
+# 2 hours - Git Setup
+
+## Tomorrow's Task
+# Codoing Practice
+# 1 hour coding
+# 1 hour Git Push and PR Creation
+# 1 hour Youtuve Session
+
+----------------------------------------
+----------------------------------------
